@@ -117,3 +117,15 @@ Page 1 – Brands Overview
 <img width="1917" height="975" alt="Screenshot 2025-11-09 111017" src="https://github.com/user-attachments/assets/41e8dddb-414a-44d2-b64a-1ded7eef09c3" />
 Page 2 – Detailed Analytics
 <img width="1917" height="972" alt="Screenshot 2025-11-09 111132" src="https://github.com/user-attachments/assets/0fb18149-f08e-4afd-abab-23ecfdd4528f" />
+
+7. Repository Structure
+📂 Mens-Fashion-Dashboard
+├── 📁 data
+│   └── Men Tshirt.csv
+├── 📁 dashboard
+│   └── Mens_Fashion_Insights.pbix
+├── 📁 images
+│   ├── Screenshot 2025-11-09 111017.png
+│   └── Screenshot 2025-11-09 111132.png
+├── 📄 README.md
+└── 📄 LICENSE (optional)
